@@ -1,2 +1,2 @@
 # African-Export-Time-Series-Analysis
-Building a ARIMA model to perform forecasting of next 10 years of African export
+Building an ARIMA model to perform forecasting of the next 10 years of African export
